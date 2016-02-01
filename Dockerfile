@@ -1,4 +1,4 @@
-FROM justbuchanan/dockerarchlinux
+FROM justbuchanan/docker-archlinux
 MAINTAINER Justin Buchanan <justbuchanan@gmail.com>
 
 # install required packages
